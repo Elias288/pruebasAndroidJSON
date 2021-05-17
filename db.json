@@ -10,8 +10,8 @@
     {"id": 2, "body" : "comment 2", "postId" : 1 }
   ],
   "Profiles": [
-    {"nickname": "Eleli", 'nombre': 'Elias', 'apellido': 'Bianchi', 'password': 'elias123'}
-    {"nickname": "ElPQ", 'nombre': 'Emanuel', 'apellido': 'Peculio', 'password': 'Pecu123'}
+    {"nickname": "Eleli", 'nombre': 'Elias', 'apellido': 'Bianchi', 'password': 'elias123'},
+    {"nickname": "ElPQ", 'nombre': 'Emanuel', 'apellido': 'Peculio', 'password': 'Pecu123'},
     {"nickname": "Kapeco", 'nombre': 'Luis', 'apellido': 'Torres', 'password': 'Torres123'}
   ]
 }
