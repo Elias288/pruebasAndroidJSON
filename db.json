@@ -1,9 +1,49 @@
 {
-  "Posts": [
-    {"id":1, "title": "Post 1", "description": "this is description 1"},
-    {"id":2, "title": "Post 1", "description": "this is description 2"},
-    {"id":3, "title": "Post 1", "description": "this is description 3"},
-    {"id":4, "title": "Post 1", "description": "this is description 4"}
+  "Ideas": [
+    {
+      "idIdea": 1, 
+      "titulo": "App automoviles inteligentes", 
+      "description": "Una aplicacion movil para manejar automoviles",
+      "requerimientos": "python, html, php",
+      "categoria": "programa, aplicacion movil",
+      "estado" : "pendiente",
+      "fecha_creacion": "24/03/2019",
+      "fecha_inicio": "sin determinar",
+      "fecha_fin": "sin determinar"
+    },
+    {
+      "idIdea": 2, 
+      "titulo": "Programa de gestion de supermercado", 
+      "description": "Un programa para pc que facilite la gestion de un supermercado",
+      "requerimientos": "java, html, php",
+      "categoria": "programa, aplicacion de escritorio",
+      "estado" : "iniciando",
+      "fecha_creacion": "22/06/2020",
+      "fecha_inicio": "10/07/2020",
+      "fecha_fin": "sin determinar"
+    },
+    {
+      "idIdea": 3, 
+      "titulo": "Mapa GPS para hubicar Pokemones", 
+      "description": "Una app movil para encontrar pokemones",
+      "requerimientos": "android, gps",
+      "categoria": "programa, aplicacion movil",
+      "estado" : "finalizado",
+      "fecha_creacion": "01/01/2021",
+      "fecha_inicio": "02/01/2021",
+      "fecha_fin": "21/05/2021"
+    },
+    {
+      "idIdea": 4, 
+      "titulo": "Programa para hakiar la NASA", 
+      "description": "Una aplicacion ree copada para hakiar la NASA",
+      "requerimientos": "android, haker",
+      "categoria": "programa, aplicacion movil",
+      "estado" : "pendiente",
+      "fecha_creacion": "03/04/2005",
+      "fecha_inicio": "sin determinar",
+      "fecha_fin": "sin determinar"
+    }
   ],
   "Comments": [
     {"id": 1, "body" : "comment 1", "postId" : 1 },
