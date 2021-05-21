@@ -45,10 +45,6 @@
       "fecha_fin": "sin determinar"
     }
   ],
-  "Comments": [
-    {"id": 1, "body" : "comment 1", "postId" : 1 },
-    {"id": 2, "body" : "comment 2", "postId" : 1 }
-  ],
   "Profiles": [
     {"nickname": "Eleli", "nombre": "Elias", "apellido": "Bianchi", "password": "elias123"},
     {"nickname": "ElPQ", "nombre": "Emanuel", "apellido": "Peculio", "password": "Pecu123"},
