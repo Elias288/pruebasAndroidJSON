@@ -47,6 +47,7 @@
   ],
   "Usuarios": [
     {
+      "idUsuario" : 1,
       "nickname": "Eleli", 
       "nombre": "Elias", 
       "apellido": "Bianchi", 
@@ -59,6 +60,7 @@
       "modificacion": "21/05/2021"
     },
     {
+      "idUsuario" : 1,
       "nickname": "ElPQ", 
       "nombre": "Emanuel", 
       "apellido": "Peculio", 
@@ -71,6 +73,7 @@
       "modificacion": "29/09/2020"
     },
     {
+      "idUsuario" : 1,
       "nickname": "Kapeco", 
       "nombre": "Luis", 
       "apellido": "Torres", 
