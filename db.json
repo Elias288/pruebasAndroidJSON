@@ -45,9 +45,42 @@
       "fecha_fin": "sin determinar"
     }
   ],
-  "Profiles": [
-    {"nickname": "Eleli", "nombre": "Elias", "apellido": "Bianchi", "password": "elias123"},
-    {"nickname": "ElPQ", "nombre": "Emanuel", "apellido": "Peculio", "password": "Pecu123"},
-    {"nickname": "Kapeco", "nombre": "Luis", "apellido": "Torres", "password": "Torres123"}
+  "Usuarios": [
+    {
+      "nickname": "Eleli", 
+      "nombre": "Elias", 
+      "apellido": "Bianchi", 
+      "password": "elias123",
+      "correo": "elias@gmail.com",
+      "fechaNacimiento": "05/04/2000",
+      "reputacion": 5,
+      "localidad": "paysandu",
+      "creacion": "21/05/2021",
+      "modificacion": "21/05/2021"
+    },
+    {
+      "nickname": "ElPQ", 
+      "nombre": "Emanuel", 
+      "apellido": "Peculio", 
+      "password": "Pecu123"
+      "correo": "Emanuel@gmail.com",
+      "fechaNacimiento": "03/01/1999",
+      "reputacion": 4,
+      "localidad": "quebracho",
+      "creacion": "29/09/2020",
+      "modificacion": "29/09/2020"
+    },
+    {
+      "nickname": "Kapeco", 
+      "nombre": "Luis", 
+      "apellido": "Torres", 
+      "password": "Torres123"
+      "correo": "Luis@gmail.com",
+      "fechaNacimiento": "21/07/1834",
+      "reputacion": 1,
+      "localidad": "Loma del horto",
+      "creacion": "31/02/2019",
+      "modificacion": "01/03/2019"
+    }
   ]
 }
