@@ -62,7 +62,7 @@
       "nickname": "ElPQ", 
       "nombre": "Emanuel", 
       "apellido": "Peculio", 
-      "password": "Pecu123"
+      "password": "Pecu123",
       "correo": "Emanuel@gmail.com",
       "fechaNacimiento": "03/01/1999",
       "reputacion": 4,
@@ -74,7 +74,7 @@
       "nickname": "Kapeco", 
       "nombre": "Luis", 
       "apellido": "Torres", 
-      "password": "Torres123"
+      "password": "Torres123",
       "correo": "Luis@gmail.com",
       "fechaNacimiento": "21/07/1834",
       "reputacion": 1,
