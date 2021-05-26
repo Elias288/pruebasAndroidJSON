@@ -51,7 +51,7 @@
       "nickname": "Eleli", 
       "nombre": "Elias", 
       "apellido": "Bianchi", 
-      "password": "elias123",
+      "password": "$2y$12$HXBt1tfp2of.1bdhS/1bfeNmIy43ffNfKHg0F4z4/YV2hI9pyZSVC",
       "correo": "elias@gmail.com",
       "fechaNacimiento": "05/04/2000",
       "reputacion": 5,
@@ -60,7 +60,7 @@
       "modificacion": "21/05/2021"
     },
     {
-      "idUsuario" : 1,
+      "idUsuario" : 2,
       "nickname": "ElPQ", 
       "nombre": "Emanuel", 
       "apellido": "Peculio", 
@@ -73,7 +73,7 @@
       "modificacion": "29/09/2020"
     },
     {
-      "idUsuario" : 1,
+      "idUsuario" : 3,
       "nickname": "Kapeco", 
       "nombre": "Luis", 
       "apellido": "Torres", 
