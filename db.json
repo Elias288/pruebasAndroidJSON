@@ -48,18 +48,11 @@
   "Usuarios": [
     {
       "status" : 1,
-      'user' => [
-          "idUsuario" : 1,
-          "nickname": "Eleli", 
-          "nombre": "Elias", 
-          "apellido": "Bianchi", 
-          "password": "$2y$12$HXBt1tfp2of.1bdhS/1bfeNmIy43ffNfKHg0F4z4/YV2hI9pyZSVC",
-          "correo": "elias@gmail.com",
-          "fechaNacimiento": "05/04/2000",
-          "reputacion": 5,
-          "localidad": "paysandu",
-          "creacion": "21/05/2021",
-          "modificacion": "21/05/2021"
+      'user': [
+        {
+          "idUsuario" : 1,"nickname": "Eleli", "nombre": "Elias", "apellido": "Bianchi", "password": "$2y$12$HXBt1tfp2of.1bdhS/1bfeNmIy43ffNfKHg0F4z4/YV2hI9pyZSVC", 
+         "correo": "elias@gmail.com", "fechaNacimiento": "05/04/2000", "reputacion": 5, "localidad": "paysandu", "creacion": "21/05/2021", "modificacion": "21/05/2021" 
+        }
       ]
     },
     {
