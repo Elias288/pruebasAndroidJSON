@@ -48,7 +48,7 @@
   "Usuarios": [
     {
       "status" : 1,
-      'user' : [
+      'user' => [
           "idUsuario" : 1,
           "nickname": "Eleli", 
           "nombre": "Elias", 
