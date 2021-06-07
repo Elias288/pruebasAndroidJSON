@@ -1,85 +1,51 @@
 {
   "Ideas": [
     {
-      "idIdea": 1, 
-      "titulo": "App automoviles inteligentes", 
-      "description": "Una aplicacion movil para manejar automoviles",
-      "requerimientos": "python, html, php",
-      "categoria": "programa, aplicacion movil",
-      "estado" : "pendiente",
-      "fecha_creacion": "24/03/2019",
-      "fecha_inicio": "sin determinar",
-      "fecha_fin": "sin determinar"
+      "idIdea": 1, "titulo": "App automoviles inteligentes", "description": "Una aplicacion movil para manejar automoviles", "requerimientos": "python, html, php",
+      "categoria": "programa, aplicacion movil", "estado" : "pendiente", "fecha_creacion": "24/03/2019", "fecha_inicio": "sin determinar", "fecha_fin": "sin determinar"
     },
     {
-      "idIdea": 2, 
-      "titulo": "Programa de gestion de supermercado", 
-      "description": "Un programa para pc que facilite la gestion de un supermercado",
-      "requerimientos": "java, html, php",
-      "categoria": "programa, aplicacion de escritorio",
-      "estado" : "iniciando",
-      "fecha_creacion": "22/06/2020",
-      "fecha_inicio": "10/07/2020",
-      "fecha_fin": "sin determinar"
+      "idIdea": 2, "titulo": "Programa de gestion de supermercado", "description": "Un programa para pc que facilite la gestion de un supermercado", 
+      "requerimientos": "java, html, php", "categoria": "programa, aplicacion de escritorio", "estado" : "iniciando", "fecha_creacion": "22/06/2020",
+      "fecha_inicio": "10/07/2020", "fecha_fin": "sin determinar"
     },
     {
-      "idIdea": 3, 
-      "titulo": "Mapa GPS para hubicar Pokemones", 
-      "description": "Una app movil para encontrar pokemones",
-      "requerimientos": "android, gps",
-      "categoria": "programa, aplicacion movil",
-      "estado" : "finalizado",
-      "fecha_creacion": "01/01/2021",
-      "fecha_inicio": "02/01/2021",
-      "fecha_fin": "21/05/2021"
+      "idIdea": 3, "titulo": "Mapa GPS para hubicar Pokemones", "description": "Una app movil para encontrar pokemones", "requerimientos": "android, gps", 
+      "categoria": "programa, aplicacion movil", "estado" : "finalizado", "fecha_creacion": "01/01/2021", "fecha_inicio": "02/01/2021", "fecha_fin": "21/05/2021"
     },
     {
-      "idIdea": 4, 
-      "titulo": "Programa para hakiar la NASA", 
-      "description": "Una aplicacion ree copada para hakiar la NASA",
-      "requerimientos": "android, haker",
-      "categoria": "programa, aplicacion movil",
-      "estado" : "pendiente",
-      "fecha_creacion": "03/04/2005",
-      "fecha_inicio": "sin determinar",
-      "fecha_fin": "sin determinar"
+      "idIdea": 4, "titulo": "Programa para hakiar la NASA", "description": "Una aplicacion ree copada para hakiar la NASA", "requerimientos": "android, haker",
+      "categoria": "programa, aplicacion movil", "estado" : "pendiente", "fecha_creacion": "03/04/2005", "fecha_inicio": "sin determinar", "fecha_fin": "sin determinar"
     }
   ],
+  
   "Usuarios": [
     {
       "status" : 1,
-      "user": [
+      "user":[
+          {
+            "idUsuario" : 1,"nickname": "Eleli", "nombre": "Elias", "apellido": "Bianchi", "password": "$2y$12$HXBt1tfp2of.1bdhS/1bfeNmIy43ffNfKHg0F4z4/YV2hI9pyZSVC", 
+           "correo": "elias@gmail.com", "fechaNacimiento": "05/04/2000", "reputacion": 5, "localidad": "paysandu", "creacion": "21/05/2021", "modificacion": "21/05/2021" 
+          }
+        ]
+    },
+    {
+      "status" : 1,
+      "user": [ 
         {
-          "idUsuario" : 1,"nickname": "Eleli", "nombre": "Elias", "apellido": "Bianchi", "password": "$2y$12$HXBt1tfp2of.1bdhS/1bfeNmIy43ffNfKHg0F4z4/YV2hI9pyZSVC", 
-         "correo": "elias@gmail.com", "fechaNacimiento": "05/04/2000", "reputacion": 5, "localidad": "paysandu", "creacion": "21/05/2021", "modificacion": "21/05/2021" 
+          "idUsuario" : 2, "nickname": "ElPQ", "nombre": "Emanuel", "apellido": "Peculio", "password": "$2y$12$s9FNuE76xa3XHFysxTIPKOIUjLQbFYaIt79pGuSLYtThh1ALngjOa",
+          "correo": "Emanuel@gmail.com", "fechaNacimiento": "03/01/1999", "reputacion": 4, "localidad": "quebracho", "creacion": "29/09/2020", "modificacion": "29/09/2020"
         }
       ]
     },
     {
-      "idUsuario" : 2,
-      "nickname": "ElPQ", 
-      "nombre": "Emanuel", 
-      "apellido": "Peculio", 
-      "password": "$2y$12$s9FNuE76xa3XHFysxTIPKOIUjLQbFYaIt79pGuSLYtThh1ALngjOa",
-      "correo": "Emanuel@gmail.com",
-      "fechaNacimiento": "03/01/1999",
-      "reputacion": 4,
-      "localidad": "quebracho",
-      "creacion": "29/09/2020",
-      "modificacion": "29/09/2020"
-    },
-    {
-      "idUsuario" : 3,
-      "nickname": "Kapeco", 
-      "nombre": "Luis", 
-      "apellido": "Torres", 
-      "password": "$2y$12$hI2VBAtskGfhHDbdGEs4nuUWhZJzV3Odf.mSTWR7H/68.zbKw6WeW",
-      "correo": "Luis@gmail.com",
-      "fechaNacimiento": "21/07/1834",
-      "reputacion": 1,
-      "localidad": "Loma del horto",
-      "creacion": "31/02/2019",
-      "modificacion": "01/03/2019"
+      "status" : 1,
+      "user": [ 
+          {
+            "idUsuario" : 3, "nickname": "Kapeco", "nombre": "Luis", "apellido": "Torres", "password": "$2y$12$hI2VBAtskGfhHDbdGEs4nuUWhZJzV3Odf.mSTWR7H/68.zbKw6WeW",
+            "correo": "Luis@gmail.com", "fechaNacimiento": "21/07/1834", "reputacion": 1, "localidad": "Loma del horto", "creacion": "31/02/2019", "modificacion": "01/03/2019"
+          }
+      ]
     }
   ]
 }
