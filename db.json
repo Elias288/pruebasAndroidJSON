@@ -15,7 +15,8 @@
     },
     {
       "idIdea": 4, "titulo": "Programa para hakiar la NASA", "description": "Una aplicacion ree copada para hakiar la NASA", "requerimientos": "android, haker",
-      "categoria": "programa, aplicacion movil", "estado" : "pendiente", "fecha_creacion": "03/04/2005", "fecha_inicio": "sin determinar", "fecha_fin": "sin determinar"
+      "categoria": "programa, aplicacion movil", "estado" : "pendiente", "fecha_creacion": "03/04/2005", "fecha_inicio": "sin determinar", "fecha_fin": "sin determinar",
+      "Array":[{"hola":"chau"}]
     }
   ],
   
