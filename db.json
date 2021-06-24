@@ -19,6 +19,36 @@
       "Array":[{"hola":"chau"}]
     }
   ],
+    "ideas 2": [
+        {
+            "id": 1,
+            "name": "Microbit",
+            "description": "El Centro Ceibal se encuentra distribuyendo placas micro:bit (https:\/\/microbit.ceibal.edu.uy) para que estudiantes de primaria y secundaria aprendan nociones b\u00e1sicas de rob\u00f3tica, electr\u00f3nica y programaci\u00f3n de forma aut\u00f3noma y l\u00fadica. Estas placas se basan en un microcontrolador y cuentan con leds, botones, aceler\u00f3metro, br\u00fajula, bluetooth y otros sensores. Adem\u00e1s, las placas se programan f\u00e1cilmente con lenguaje tipo \u201cscratch\u201d y python, por lo que son muy \u00fatiles para un primer acercamiento a la tem\u00e1tica.",
+            "tag": "Educativo",
+            "requirements": "Web",
+            "image": "idea-img\/microbit.jpg",
+            "attached": null,
+            "complexity": "media",
+            "type": "colaborativa",
+            "created": "2021-06-14T18:35:41+00:00",
+            "modified": "2021-06-14T18:35:41+00:00",
+            "user_id": 4
+        },
+        {
+            "id": 2,
+            "name": "Flor de ceibo",
+            "description": "Flor de Ceibo es un proyecto central de la Universidad de la Rep\u00fablica, que tiene misi\u00f3n por movilizar la participaci\u00f3n de estudiantes universitarios en diversas tareas vinculadas con la puesta en funcionamiento del Plan Ceibal en el territorio nacional.",
+            "tag": "Educativo",
+            "requirements": "cualquier cosa",
+            "image": "idea-img\/Extensionismo Industrial.png",
+            "attached": "",
+            "complexity": "media",
+            "type": "lucrativa",
+            "created": "2021-06-22T22:44:45+00:00",
+            "modified": "2021-06-22T22:44:45+00:00",
+            "user_id": 1
+        }
+],
   
   "Usuarios": [
     {
